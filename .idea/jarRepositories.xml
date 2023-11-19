@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="mirrors" />
+      <option name="name" value="Mirrors" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/groups/mirrors" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sdk-releases" />
+      <option name="name" value="Profit SDK releases" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/sdk-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="archiva.snapshots" />
+      <option name="name" value="Mandatum Life Profit internal repository" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/mandatum-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="archiva.externals" />
+      <option name="name" value="Manually installed rare or special artifacts" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/externals" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ophv" />
+      <option name="name" value="OPHV Maven repository" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/ophv" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Default repository at Profit's archiva" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="Manually installed rare or special artifacts" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mandatum" />
+      <option name="name" value="Mandatum Life Profit internal repository" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/mandatum" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="Manually installed rare or special artifacts" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="duo" />
+      <option name="name" value="DUO Maven repository" />
+      <option name="url" value="http://archiva.profitsoftware.com/nexus/content/repositories/duo" />
+    </remote-repository>
+  </component>
+</project>
